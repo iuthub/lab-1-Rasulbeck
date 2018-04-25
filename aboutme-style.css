@@ -1,0 +1,16 @@
+body {
+	background-color: #999;
+	font-family: verdana;
+}
+
+b{
+	color: yellow;
+}
+
+h1, h2{
+	color: red;
+}
+
+a{
+	color: white;
+}
